@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.0.0",
-    "generatedAt": "2026-10-31T01:41:11.546503954Z",
+    "version": "1.1.0",
+    "generatedAt": "2026-11-16T14:02:57.036225820Z",
     "templateType": "trip_a",
     "propertyId": "35f936d2-5cc9-441c-a629-edc566c55826",
     "homepageId": "01a18f93-12aa-71f0-bb0c-92b8c98bf2db"
@@ -22,7 +22,7 @@
     "checkin": "15:00",
     "checkout": "11:00",
     "checkInOutInfo": "[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 22시 00분",
-    "usageGuide": "- 예약 시 예약인원을 꼭 확인해주세요.\n- 입실 전/퇴실 후 짐 보관 서비스 가능합니다.\n\n[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 22시 00분\n\n[인원추가정보]\n[연령기준]\n- 성인: 8세 이상\n- 아동: 24개월 이상~8세 미만\n- 유아: 24개월 미만\n\n[추가 요금]\n- 전객실\n- 요금: 성인 1인 30,000원, 아동 1인 20,000원, 유아 1인 20,000원\n(1박기준/현장결제)\n※ 영유아 인원수에 포함\n\n[조식 서비스]\n- 이용 요금: 무료\n- 메뉴: 씨리얼, 계란, 우유, 빵, 잼, 라면, 커피 등\n- 이용 장소: 공동주방\n※ 이용 시간: 08:30 ~ 10:00\n\n[부대시설]\n[공용 시설]\n- 공동 마당\n- 공동 주방\n\n[전자레인지/공용주방]\n- 이용객실 - 전 객실\n- 이용요금 - 없음\n- 이용시간 - 제한 없음 (늦은 시간 조용히 이용)\n- 신청시간 - 없음\n- 이용장소 - 외부에 공용주방 마련\n\n[전기자전거 렌탈]\n- 이용객실 : 전객실\n- 이용요금 : 시간 당 부과 (현장 확인)\n- 대여장소 : 숙소 내부\n\n[편의 및 주변 시설]\n- 와이파이 보유\n- 넷플릭스 보유 (개인계정 필요)\n- 넷플릭스 외 OTT 미보유\n- 화재감지기 보유\n- 일산화탄소감지기 보유\n- 엘레베이터 미보유\n\n- 첨성대 펜션에서 차량 3분\n- 월정교 펜션에서 차량 3분\n- 경주대릉원 펜션에서 차량 3분\n- 천마총 펜션에서 차량 3분\n- 동궁과 월지 펜션에서 차량 5분\n\n[주차장]\n- 주차장 보유\n- 주차대수: 객실 당 1대\n- 이용 요금: 무료\n- 전기차 충전기 미보유\n\n[교통편]\n[자가용 이용 시]\n- 지번 주소 : 경북 경주시 황남동 480-2\n- 도로명 주소 : 경북 경주시 포석로 976-2 (황남동)\n\n[대중교통 이용 시]\n- 경주역(KTX) (03142) 50,51 버스 승차 서라벌사거리.황리단길(01190) 하차도보 7분 황리단길(01076) 500,506,508 승차국당마을(01054) 하차도보 2분 도착\n\n[주변관광지와의 거리]\n- 1.첨성대 펜션에서 차량 3분\n- 2.월정교 펜션에서 차량 3분\n- 3.경주대릉원 펜션에서 차량 3분\n- 4.천마총 펜션에서 차량 3분\n- 5.동궁과 월지 펜션에서 차량 5분",
+    "usageGuide": "[공지사항]\n- 예약 시 예약인원을 꼭 확인해주세요.\n- 입실 전/퇴실 후 짐 보관 서비스 가능합니다.\n\n[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 22시 00분\n\n[인원추가정보]\n[연령기준]\n- 성인: 8세 이상\n- 아동: 24개월 이상~8세 미만\n- 유아: 24개월 미만\n\n[추가요금]\n- 결제방법: 후결제(현장결제)\n※ 영유아 인원수에 포함\n\n[조식 서비스]\n- 이용 요금: 무료\n- 메뉴: 씨리얼, 계란, 우유, 빵, 잼, 라면, 커피 등\n- 이용 장소: 공동주방\n※ 이용 시간: 08:30 ~ 10:00\n\n[부대시설]\n[공용 시설]\n- 공동 마당\n- 공동 주방\n\n[전자레인지/공용주방]\n- 이용객실 - 전 객실\n- 이용요금 - 없음\n- 이용시간 - 제한 없음 (늦은 시간 조용히 이용)\n- 신청시간 - 없음\n- 이용장소 - 외부에 공용주방 마련\n\n[전기자전거 렌탈]\n- 이용객실 : 전객실\n- 이용요금 : 시간 당 부과 (현장 확인)\n- 대여장소 : 숙소 내부\n\n[편의 및 주변 시설]\n- 와이파이 보유\n- 넷플릭스 보유 (개인계정 필요)\n- 넷플릭스 외 OTT 미보유\n- 화재감지기 보유\n- 일산화탄소감지기 보유\n- 엘레베이터 미보유\n\n- 첨성대 펜션에서 차량 3분\n- 월정교 펜션에서 차량 3분\n- 경주대릉원 펜션에서 차량 3분\n- 천마총 펜션에서 차량 3분\n- 동궁과 월지 펜션에서 차량 5분\n\n[주차장]\n- 주차장 보유\n- 주차대수: 객실 당 1대\n- 이용 요금: 무료\n- 전기차 충전기 미보유\n\n[교통편]\n[자가용 이용 시]\n- 지번 주소 : 경북 경주시 황남동 480-2\n- 도로명 주소 : 경북 경주시 포석로 976-2 (황남동)\n\n[대중교통 이용 시]\n- 경주역(KTX) (03142) 50,51 버스 승차 서라벌사거리.황리단길(01190) 하차도보 7분 황리단길(01076) 500,506,508 승차국당마을(01054) 하차도보 2분 도착\n\n[주변관광지와의 거리]\n- 1.첨성대 펜션에서 차량 3분\n- 2.월정교 펜션에서 차량 3분\n- 3.경주대릉원 펜션에서 차량 3분\n- 4.천마총 펜션에서 차량 3분\n- 5.동궁과 월지 펜션에서 차량 5분",
     "reservationGuide": "- 예약 시 예약인원을 꼭 확인해주세요.\n- 입실 전/퇴실 후 짐 보관 서비스 가능합니다.",
     "province": "도/시",
     "city": "시/군/구",
@@ -413,7 +413,7 @@
           {
             "id": "2b89b45e-75bf-427a-931a-d04f1560a351",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/07/22/TpBUyiYJWwEo.jpg",
-            "sortOrder": 0,
+            "sortOrder": 1,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -423,7 +423,7 @@
           {
             "id": "e4a6d3ea-bff7-4ff9-acbc-95a8e75dd7da",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/07/22/PwA6c1g3ekG8.jpg",
-            "sortOrder": 0,
+            "sortOrder": 2,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -431,7 +431,7 @@
           {
             "id": "39272bb9-e151-40f4-8540-81d41521fb96",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/07/22/CzfASuQjVReg.jpg",
-            "sortOrder": 1,
+            "sortOrder": 3,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -439,7 +439,7 @@
           {
             "id": "1eb68e18-3ca4-41fb-ada9-e38612e36e1b",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/07/22/PpZqBgNtknlL.jpg",
-            "sortOrder": 2,
+            "sortOrder": 4,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -447,7 +447,7 @@
           {
             "id": "482d73b2-03ad-40f0-90cc-d2a85aafc0cc",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/07/22/Dsf3eSl0W2Bm.jpg",
-            "sortOrder": 3,
+            "sortOrder": 5,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -455,7 +455,7 @@
           {
             "id": "a9084884-a907-48a2-a76c-98bdef5bca01",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/07/22/gmHCsN2DIySF.jpg",
-            "sortOrder": 4,
+            "sortOrder": 6,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -463,7 +463,7 @@
           {
             "id": "761fecc3-edf1-4613-b5d7-72fc4ce0dd8f",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/07/22/Ry7TD8unF2HU.jpg",
-            "sortOrder": 5,
+            "sortOrder": 7,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -471,7 +471,7 @@
           {
             "id": "f86637ff-b84d-4111-92d1-f8366dfc4031",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/07/22/vMNwROSuLbrJ.jpg",
-            "sortOrder": 6,
+            "sortOrder": 8,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -479,7 +479,7 @@
           {
             "id": "a49aa97d-f93b-4dbb-9a3f-f93fc1ec769c",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/07/22/BAt7ZRES13FN.jpg",
-            "sortOrder": 7,
+            "sortOrder": 9,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -3878,7 +3878,8 @@
         }
       ],
       "footer": {
-        "ruralStayMark": null
+        "ruralStayMark": null,
+        "ruralStayMarks": [ ]
       }
     }
   }
